@@ -1,7 +1,7 @@
 {
-    "ropsten": {
+    "ropstenStaging": {
         "LpToken": "0xd067df0ca66f97d04246d90917ae2bae5f5f9fc7",
-        "TwoKeyEconomy": "0xF0f8D089136c88D99EAB8De4e84cae347B52AA63",
-        "Farm": "0xb7F1489Be6b8C75a5980B336FEf52a7522A7F83A"
+        "TwoKeyEconomy": "0x3e200226b285eadeccf60036c18a52b7e88c9bb2",
+        "Farm": "0x875b2E3a0aDa9E2f9A7B40b20069991BD891b6Ee"
     }
 }
