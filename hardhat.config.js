@@ -2,9 +2,9 @@ require('@nomiclabs/hardhat-waffle')
 require('@nomiclabs/hardhat-ethers')
 require("@nomiclabs/hardhat-web3")
 require('@openzeppelin/hardhat-upgrades')
-require("@tenderly/hardhat-tenderly");
-require('dotenv').config();
-const branch = require('git-branch');
+require("@tenderly/hardhat-tenderly")
+require('dotenv').config()
+const branch = require('git-branch')
 
 
 
